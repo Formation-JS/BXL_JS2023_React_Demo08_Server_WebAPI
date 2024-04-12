@@ -1,0 +1,24 @@
+{
+  "name": "demo-react-08-webapi",
+  "version": "1.0.0",
+  "description": "Web API pour la demo React 08",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --env-file=.env app.js",
+    "dev": "nodemon --env-file=.env app.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Aurélien St",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.40.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-async-error": "^0.0.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

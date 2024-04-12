@@ -1,0 +1,75 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Les Misérables",
+            "desc": "Un roman historique de Victor Hugo",
+            "price": 12.99,
+            "categorie": "Roman"
+        },
+        {
+            "id": 2,
+            "name": "Le Petit Prince",
+            "desc": "Un conte philosophique de Antoine de Saint-Exupéry",
+            "price": 10.50,
+            "categorie": "Conte"
+        },
+        {
+            "id": 3,
+            "name": "1984",
+            "desc": "Un roman dystopique de George Orwell",
+            "price": 15.00,
+            "categorie": "Science-fiction"
+        },
+        {
+            "id": 4,
+            "name": "L'Étranger",
+            "desc": "Un roman existentialiste de Albert Camus",
+            "price": 9.99,
+            "categorie": "Roman"
+        },
+        {
+            "id": 5,
+            "name": "Don Quichotte",
+            "desc": "Un roman d'aventure de Miguel de Cervantes",
+            "price": 18.00,
+            "categorie": "Aventure"
+        },
+        {
+            "id": 6,
+            "name": "Moby Dick",
+            "desc": "Un roman d'aventure de Herman Melville",
+            "price": 14.99,
+            "categorie": "Aventure"
+        },
+        {
+            "id": 7,
+            "name": "Madame Bovary",
+            "desc": "Un roman réaliste de Gustave Flaubert",
+            "price": 11.50,
+            "categorie": "Roman"
+        },
+        {
+            "id": 8,
+            "name": "Guerre et Paix",
+            "desc": "Un roman historique de Léon Tolstoï",
+            "price": 20.00,
+            "categorie": "Roman"
+        },
+        {
+            "id": 9,
+            "name": "Le Comte de Monte-Cristo",
+            "desc": "Un roman d'aventure de Alexandre Dumas",
+            "price": 16.99,
+            "categorie": "Aventure"
+        },
+        {
+            "id": 10,
+            "name": "Crime et Châtiment",
+            "desc": "Un roman psychologique de Fiodor Dostoïevski",
+            "price": 13.50,
+            "categorie": "Roman"
+        }
+    ],
+    "lastId": 10
+}

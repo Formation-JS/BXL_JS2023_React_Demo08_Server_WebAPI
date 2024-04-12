@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "username": "della",
+            "password": "$argon2id$v=19$m=16,t=2,p=1$ME43QXptYUJpR1F2dE5HdA$c2u98w8ESM7ztIaV90HswQ",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "username": "zaza",
+            "password": "$argon2id$v=19$m=16,t=2,p=1$Wnc2MGJ5S0NTd2RoRUNwTQ$XG0HWbuZ9OULkqv/lj+6Dw",
+            "role": "user"
+        }
+    ],
+    "lastId": 2
+}
